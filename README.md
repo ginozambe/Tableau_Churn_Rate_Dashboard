@@ -8,16 +8,16 @@ This Tableau dashboard analyzes customer churn data from a telco company to iden
 
 ## Key Features
 
-1. Churn Per Payment Method
+1. Churn Per Payment Method:
 This section shows the distribution of churn based on payment methods. It reveals that customers using electronic checks have the highest churn rate, providing a focal point for targeted retention efforts. View Visualisation [Here](<screenshots/churn_per_payment_method.png>)
 
-2. Total vs Monthly Charges
+2. Total vs Monthly Charges:
 This scatterplot highlights the relationship between total charges, monthly charges, and churn. It demonstrates that as total charges increase, churn decreases, suggesting that longer-tenured customers are less likely to leave. View Visualisation [Here](<screenshots/total_vs_monthly_charges.png>)
 
-3. Churn Per Contract Type
+3. Churn Per Contract Type:
 This bar chart compares churn rates across different contract types. Customers on month-to-month contracts churn significantly more than those on yearly or two-year contracts, emphasizing the importance of promoting long-term plans. View Visualisation [Here](<screenshots/churn_per_contract_type.png>)
 
-4. Tenure Churn Count
+4. Tenure Churn Count:
 This chart visualizes churn rates by customer tenure. It shows that churn is more common in the earlier months of tenure, reinforcing the need for early customer engagement and satisfaction strategies. View Visualisation [Here](<screenshots/tenure_churn_count.png>)
 
 ## Findings and Recommendations
