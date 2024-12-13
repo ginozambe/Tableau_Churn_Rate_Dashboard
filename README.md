@@ -30,9 +30,9 @@ This chart visualizes churn rates by customer tenure. It shows that churn is mor
 
 ### Recommendations
 
-1. Incentivize customers to switch from month-to-month to yearly or two-year contracts.
+1. Incentivise customers to switch from month-to-month to yearly or two-year contracts.
 2. Offer retention programs or discounts for electronic check users.
-3. Engage customers early in their tenure with personalized offers to reduce churn.
+3. Engage customers early in their tenure with personalised offers to reduce churn.
 
 ## Data Source
 
